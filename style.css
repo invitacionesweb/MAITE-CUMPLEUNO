@@ -294,6 +294,12 @@ main p {
     width: 60px;
     padding-bottom: 10px;
 }
+.quote {
+    text-align: center;
+    background-color: var(--color-secundario);
+    color: var(--color-principal);
+padding: 40px 30px;
+}
 .end {
     background-image: url(./img/madeira1.png);
     background-position: center;
